@@ -1,8 +1,5 @@
 ### Hello there 👋
 
-<!--
-**HermesCaretta/HermesCaretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Just a brazilian guy trying to develop some things. 
 - I’m currently an intern at [Orgsystem](https://www.orgsystem.com.br) and i'm studying computer science at [UNIFACEF](https://www.unifacef.com.br/)
 
