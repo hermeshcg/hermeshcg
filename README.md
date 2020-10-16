@@ -8,7 +8,7 @@
 
 - 🖥 Currently working on improve my ReactJS / React Native / NodeJS skills
 - Follow me and let's have some talk :)
-- 🐦 [Instagram](https://twitter.com/hermeshcg1)
-- 📸 [Twitter](https://twitter.com/hermeshcg1)
+- 🐦 [Twitter](https://twitter.com/hermeshcg1)
+- 📸 [Instagram](https://twitter.com/hermeshcg1)
 - 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta-a37199155/)
 
