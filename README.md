@@ -7,3 +7,4 @@
 - 🐦 [@hermeshcg1](https://twitter.com/hermeshcg1)
 - 📸 [@hermeshcg](https://twitter.com/hermeshcg1)
 - 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta-a37199155/)
+[![Hermes stas](https://github-readme-stats.vercel.app/api?username=hermeshcg)](https://github.com/anuraghazra/github-readme-stats)
