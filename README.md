@@ -7,7 +7,7 @@
 - I’m currently an intern at [Orgsystem](https://www.orgsystem.com.br) and i'm studying computer science at [UNIFACEF](https://www.unifacef.com.br/)
 
 - 🖥 Currently working on improve my ReactJS / React Native / NodeJS skills
-- Follow me and let's have some talk :)
+- Follow me and let's talk :)
 - 🐦 [Twitter](https://twitter.com/hermeshcg1)
 - 📸 [Instagram](https://twitter.com/hermeshcg1)
 - 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta-a37199155/)
