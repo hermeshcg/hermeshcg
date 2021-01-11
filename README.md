@@ -6,7 +6,7 @@
 - Social Medias
 - 🐦 [Twitter](https://twitter.com/hermeshcg1)
 - 📸 [Instagram](https://twitter.com/hermeshcg1)
-- 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta-a37199155/)
+- 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta)
 ---
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
