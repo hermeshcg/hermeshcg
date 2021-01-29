@@ -22,5 +22,5 @@
 [![Hermes stas](https://github-readme-stats.vercel.app/api?username=hermeshcg&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <img src="https://media.giphy.com/media/fqtxCwUd2t6dCzILMq/giphy.gif"/>
+ ![ Alt text](https://media.giphy.com/media/fqtxCwUd2t6dCzILMq/giphy.gif
 <!--- Eu sei, cansa---> 
