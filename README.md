@@ -1,13 +1,17 @@
 ### Hello there 👋
-- Just a brazilian guy trying to develop some things. 
+
+- Just a brazilian guy trying to develop some things.
 - I’m currently an frontend intern at [Orgsystem](https://www.orgsystem.com.br) and i'm studying computer science at [UNIFACEF](https://www.unifacef.com.br/)
 
 ---
+
 - Social Medias
 - 🐦 [Twitter](https://twitter.com/hermeshcg1)
 - 📸 [Instagram](https://twitter.com/hermeshcg1)
 - 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta)
+
 ---
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -17,10 +21,9 @@
 
 ---
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermeshcg&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Hermes stas](https://github-readme-stats.vercel.app/api?username=hermeshcg&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
+![Alt text](./assets/gif.gif)
 
- ![Alt text](https://media.giphy.com/media/fqtxCwUd2t6dCzILMq/giphy.gif)
-<!--- Eu sei, cansa---> 
+<!--- Eu sei, cansa--->
