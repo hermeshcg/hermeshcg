@@ -7,7 +7,8 @@
 
 ---
 
-- Social Medias
+- Social Media
+
 - 🐦 [Twitter](https://twitter.com/hermeshcg1)
 - 📸 [Instagram](https://twitter.com/hermeshcg1)
 - 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta)
