@@ -26,9 +26,7 @@
 
 ---
 
-![Alt text](./assets/gif.gif)
-
----
+<!---![Alt text](./assets/gif.gif)--->
 
 
 
