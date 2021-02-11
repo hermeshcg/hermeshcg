@@ -3,8 +3,9 @@
 
 ---
 
-- Just a 19yo brazilian guy trying to develop some things.
-- I’m currently an frontend intern at [Orgsystem](https://www.orgsystem.com.br) and i'm studying computer science at [UNIFACEF](https://www.unifacef.com.br/)
+### Abou me
+
+- I'm a 19yo brazilian computer science student and frontend intern looking forward to achieve new knowledges and experiences :) 
 
 ---
 
