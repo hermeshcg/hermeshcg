@@ -3,7 +3,7 @@
 
 ---
 
-### Abou me
+### About me
 
 - I'm a 19yo brazilian computer science student and frontend intern looking forward to achieve new knowledges and experiences :) 
 
