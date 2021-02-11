@@ -1,4 +1,3 @@
-### Hello there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermeshcg&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![Hermes stas](https://github-readme-stats.vercel.app/api?username=hermeshcg&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,7 +8,7 @@
 
 ---
 
-- Social Media
+### Social Media
 
 - 🐦 [Twitter](https://twitter.com/hermeshcg1)
 - 📸 [Instagram](https://twitter.com/hermeshcg1)
