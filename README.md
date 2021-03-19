@@ -3,7 +3,7 @@
 
 ---
 
-#ForaBolsonaro
+#ForaBolsonaro #BolsonaroGenocida
 
 ### About me
 
