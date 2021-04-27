@@ -25,6 +25,10 @@
 
 ---
 
+![Visitor Count](https://profile-counter.glitch.me/hermeshcg/count.svg)
+
+---
+
 ![Alt text](./assets/gif.gif)
 
 
