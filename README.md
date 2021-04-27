@@ -32,10 +32,9 @@
 ### Techs and tools i'm learning
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" />
-  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" />
-  <img alt="JAVA" src="https://img.shields.io/badge/java-282C34?logo=java&logoColor=cd2626" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js logo" />
+  <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js logo" />
+  <img alt="JAVA" src="https://img.shields.io/badge/java-282C34?logo=java&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
