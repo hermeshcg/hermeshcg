@@ -41,12 +41,6 @@
 
 ---
 
-### Visitor Count (since 4/27/2021)
-
-![Visitor Count](https://profile-counter.glitch.me/hermeshcg/count.svg)
-
----
-
 ![Alt text](./assets/gif.gif)
 
 ---
