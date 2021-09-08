@@ -13,7 +13,7 @@
 
 ### Link Tree
 
--🔗 [Linktree](https://twitter.com/hermeshcg1)
+🔗 [Linktree](https://twitter.com/hermeshcg1)
 
 ---
 
