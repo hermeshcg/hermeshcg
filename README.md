@@ -11,11 +11,9 @@
 
 ---
 
-### Social Media
+### Link Tree
 
-- 🐦 [Twitter](https://twitter.com/hermeshcg1)
-- 📸 [Instagram](https://twitter.com/hermeshcg1)
-- 👔 [Linkedin](https://www.linkedin.com/in/hermes-caretta)
+-🔗 [Linktree](https://twitter.com/hermeshcg1)
 
 ---
 
