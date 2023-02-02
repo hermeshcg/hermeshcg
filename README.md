@@ -6,7 +6,7 @@
 
 ### About me
 
-- I'm a 20yo brazilian computer science student and jr frontend developer looking forward to achieve new knowledges and experiences :)
+- I'm a 21yo brazilian computer science student and jr frontend developer looking forward to achieve new knowledges and experiences :)
 
 ---
 
