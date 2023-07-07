@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hermeshcg&label=Profile%20views&color=0e75b6&style=flat" alt="hermeshcg" /> </p>
 
-- 🔭 I’m currently working on [codebit](https://codebit.com.br)
+- 🔭 I’m currently working at [codebit](https://codebit.com.br)
 
 - 📫 How to reach me **hermescaretta@gmail.com**
 
